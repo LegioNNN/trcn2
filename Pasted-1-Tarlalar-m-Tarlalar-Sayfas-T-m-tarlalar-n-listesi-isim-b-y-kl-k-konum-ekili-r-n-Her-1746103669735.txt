@@ -1,0 +1,66 @@
+1. Tarlalarım (Tarlalar) Sayfası
+Tüm tarlaların listesi (isim, büyüklük, konum, ekili ürün).
+
+Her tarlanın detayına girince:
+
+Toprak analizi sonuçları (pH, nem, organik madde vb.)
+
+Son yapılan işlemler (ekim, gübreleme, ilaçlama, sulama).
+
+Geçmiş yıllara ait verim ve işlem geçmişi.
+
+Harita üzerinde görsel konumlandırma.
+
+2. Mahsul Paneli (Ürünler) Sayfası
+Ekili tüm ürünlerin listesi (ürün adı, ekili olduğu tarlalar, toplam ekili alan).
+
+Her ürün için:
+
+Beklenen ve gerçekleşen verim.
+
+Son sulama, gübreleme, ilaçlama tarihleri.
+
+Yaklaşan bakım/hasat işlemleri için uyarılar.
+
+Ürün bazında yıllık üretim ve satış grafikleri.
+
+3. Tarla Durumu (Sağlık ve Uyarılar) Sayfası
+Sağlıklı ve sorunlu tarlaların listesi.
+
+Sorunlu tarlalar için detaylı uyarılar (hastalık, zararlı, su stresi vb.).
+
+Sorunların çözümü için öneriler ve yapılması gereken işlemler.
+
+Tüm tarlaların sağlık durumunu harita üzerinde gösteren bir modül.
+
+4. İşlem Takvimi ve Görevler Sayfası
+Yaklaşan ve geçmiş işlemler (sulama, gübreleme, ilaçlama, hasat).
+
+Kullanıcıya özel yapılacaklar listesi ve otomatik hatırlatıcılar.
+
+Her işlem için notlar ve ek dosya/fotoğraf ekleme.
+
+5. Raporlar ve Analizler Sayfası
+Yıllık, aylık ve haftalık üretim raporları.
+
+Girdi (tohum, gübre, ilaç) ve çıktı (ürün, satış) analizleri.
+
+Kârlılık, maliyet ve verimlilik raporları.
+
+Grafik ve tablo desteğiyle karşılaştırmalı analizler.
+
+6. Ayarlar ve Kullanıcı Profili Sayfası
+Kullanıcı bilgileri ve profil düzenleme.
+
+Şifre değiştirme, bildirim ayarları.
+
+Yetkilendirme ve rol yönetimi (birden fazla kullanıcı desteği).
+
+7. Destek ve Bilgilendirme Sayfası
+Sıkça sorulan sorular (SSS).
+
+Tarım danışmanlığı ve iletişim formu.
+
+Kullanıcıya özel eğitim materyalleri ve kılavuzlar.
+
+Her sayfa, kullanıcı dostu arayüz ile hızlı erişim ve kolay veri girişi sağlamalıdır. Ayrıca, panelin mobil uyumlu olması ve harita tabanlı gösterimler ile görsellik desteklenmelidir. Bu öneriler, panelini profesyonel ve kapsamlı bir çiftlik yönetim sistemine dönüştürmek için temel bir yol haritası sunar.

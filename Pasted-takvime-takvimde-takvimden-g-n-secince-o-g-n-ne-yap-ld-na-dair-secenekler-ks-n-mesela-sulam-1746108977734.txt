@@ -1,0 +1,65 @@
+takvime 
+
+takvimde takvimden gün secince, o gün ne yapıldığına dair secenekler çıksın mesela sulama-ilaç-aygıt sürüldü vs gibi kullanıcı secsin ve sectikten sonra takvime kaydetsin direk, her etkinligin kendi rengi olsun ve takvime eklenince misal 13. gün ilaç atıldı 13. gün üzeri siyah olsun örneğin, 13. gün hem sulama hem ilaç yapıldıysa mavi siyah belirteç olsun o gün üzerinde, ekledikten sonra tıklayınca 13. güne sulama ve ilaç atılıdğını göstersin
+
+
+raporlar sayfasına da 
+
+geçen sezonda neler yapıldığı mesela hangi günler ilaç atıldığı sulandğı vs gibi bilgiler yer alsın, ve hasatta ne kadar mahsul alındı hangi tarladan, bu seneyle karşılasştırılır, 
+
+
+profil sayfası
+
+
+Profil Sayfası Güncellenmiş İçeriği
+Kişisel Bilgiler:
+
+Ad: Kullanıcının adı.
+
+Soyad: Kullanıcının soyadı.
+
+Telefon Numarası: Kullanıcıyla iletişim için numara.
+
+E-posta: Kullanıcının e-posta adresi.
+
+Tarla Sahibi Olduğu Bölge: Hangi bölgelerde tarlası olduğu gibi bilgiler.
+
+Tarla Bilgisi:
+
+Kullanıcının sahip olduğu tarlalarla ilgili kısa bilgiler (Örneğin: Merkez Tarla, Doğu Tarla).
+
+Ekili Ürünler: Hangi ürünlerin ekildiği, hangi tarlalarda hangi ürünlerin bulunduğu.
+
+Profil Fotoğrafı:
+
+Kullanıcı profil fotoğrafını burada yükleyebilir ve değiştirebilir.
+
+Tarım Bilgisi ve Deneyimi:
+
+Tecrübe Ekle Butonu: "Kaç yıldır çiftçisiniz?" gibi bir soru açılır. Kullanıcı, yazdığı yıl bilgisini kaydederek, profilinde görünen tarım deneyimi kısmına ekler. Bu şekilde kullanıcı profiline tecrübe yılı ekleyebilir.
+
+
+Değerlendirmeler ve Geribildirim:
+
+Kullanıcı uygulama hakkında geribildirim verebilir.
+
+Kullanıcının uygulama üzerinden sağladığı geri bildirimlere dair notlar veya yorumlar burada olabilir.
+
+Çıkış Yap:
+
+Kullanıcı hesabından çıkış yapabilmeli.
+
+Ayarlar Menüsü
+1. Tema Seçimi
+Açık Mod: Uygulamanın klasik, parlak temasını seçer.
+
+Koyu Mod: Gece kullanımı için göz dostu koyu renk teması.
+
+2. Uygulama Hakkında
+Sürüm Bilgisi: Kullanıcı, uygulamanın mevcut sürümünü görebilir.
+
+Kullanım Koşulları: Uygulamanın kullanım şartlarına ve gizlilik politikalarına ulaşabilir.
+
+Destek ve İletişim: Kullanıcı, uygulama ile ilgili sorunlarını veya önerilerini buradan iletebilir.
+
+Sıkça Sorulan Sorular (SSS): Uygulama hakkında sıkça sorulan sorular ve cevapları burada yer alır.
