@@ -1,0 +1,7 @@
+Implement user login and registration, enable secure access and navigation
+
+Implements authentication with login/registration in AuthPage.tsx, redirects to dashboard, fixes logout in MainLayout.tsx.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: d63bd0dd-7baa-4489-9ae8-002556279b38
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/72ed5b54-6d35-4920-a13e-a50b9b138fc6/88515536-db38-4e6f-af88-0034e75b7f31.jpg
